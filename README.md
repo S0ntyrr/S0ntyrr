@@ -96,6 +96,7 @@ Web-based project focused on modern frontend technologies and user experience.
 
 ### 💻 Distribuido Sprint
 Java project applying distributed systems and software development concepts.
+
 ---
 
 ## 🌎 Connect With Me
@@ -109,7 +110,7 @@ Java project applying distributed systems and software development concepts.
 <a href="mailto:santyrap12@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
-
+🎯 Open to internships, collaborative projects and software development opportunities.
 </p>
 
 ---
