@@ -1,6 +1,11 @@
 <p align="center">
   <img src="./Banner.png" alt="Banner" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/S0ntyrr.png" width="180">
+</p>
+
 <div align="center">
 
 # Hi there 👋 I'm Santiago Rodriguez
@@ -24,6 +29,7 @@
 📊 Interested in Data Analytics & Business Intelligence
 
 🌱 Currently learning:
+
 - Software Architecture
 - Cloud Computing
 - Advanced Java
@@ -33,23 +39,19 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,docker,git,github,vscode" />
 </p>
 
-### Tools & Technologies
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-</p>
+## 🎯 Current Focus
 
-### Currently Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux" />
-</p>
+- Backend Development with Java
+- Python Applications
+- Docker Containers
+- Business Intelligence
+- Data Analytics
 
 ---
 
@@ -75,16 +77,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=S0ntyrr" />
-
-</div>
-
----
-
 ## 📌 Featured Projects
 
 ### ☎️ Call Center Simulation
@@ -105,12 +97,12 @@ Data cleaning, visualization, operational KPI analysis and insights generation.
 
 <p align="center">
 
-<a href="www.linkedin.com/in/santiago-rodriguez-salcedo-4548143b6">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/santiago-rodriguez-salcedo-4548143b6">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="santyrap12@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<a href="mailto:santyrap12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
