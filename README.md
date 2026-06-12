@@ -79,18 +79,23 @@
 
 ## 📌 Featured Projects
 
-### ☎️ Call Center Simulation
-Multithreaded Java application with GUI, call management and concurrent processing.
+### 🏢 Disko E.R.P.
+Enterprise Resource Planning system designed for nightclub management.
 
-### 🐳 Dockerized Web Applications
-Containerized web applications using Docker and Python.
+### ☕ Backend Dobble
+Backend application developed in Java following software engineering principles.
 
-### 📊 Business Intelligence Dashboards
-Interactive dashboards, ETL pipelines and KPI monitoring.
+### 📊 Auroproces
+Technical assessment notebook focused on data analysis and process automation using Python.
 
-### 📈 Data Analytics Projects
-Data cleaning, visualization, operational KPI analysis and insights generation.
+### 🔄 Middleware
+Middleware implementation for web applications and service integration.
 
+### 🌊 OceanGoal
+Web-based project focused on modern frontend technologies and user experience.
+
+### 💻 Distribuido Sprint
+Java project applying distributed systems and software development concepts.
 ---
 
 ## 🌎 Connect With Me
