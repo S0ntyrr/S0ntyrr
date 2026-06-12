@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner" />
+</p>
 <div align="center">
 
 # Hi there 👋 I'm Santiago Rodriguez
