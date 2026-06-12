@@ -65,6 +65,6 @@ Data analysis, ETL processes, KPIs and interactive dashboards.
 
 ## 📫 Connect With Me
 
-LinkedIn: www.linkedin.com/in/santiago-rodriguez-1001s
+LinkedIn: www.linkedin.com/in/santiago-rodriguez-salcedo-4548143b6
 
-Email: your-email@example.com
+Email: santyrap12@gmail.com
